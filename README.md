@@ -8,7 +8,7 @@ First step: Simple script to:
 questions:
 - how to figure out if drive is detected? (just volume name?)
 - manage ignorable with .gitignore in CIRCUITPY (that gets copied)
-- native python git library?
+- native python git library? https://gitpython.readthedocs.io/en/stable/tutorial.html#tutorial-label
 
 Check on Circuitpython plugin for VS code: does it do soomething already? local copy?
 keep copy over drive eject (hard-reset vs. soft-reboot). Similar issue with having files 
